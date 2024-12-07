@@ -48,7 +48,7 @@ header > p > a:hover {
 
 section {
     padding-top: 10vh;
-    padding: 10vh;
+    padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
