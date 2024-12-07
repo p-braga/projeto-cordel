@@ -9,7 +9,7 @@
 }
 
 :root {
-    --fonte1: Verdana, Geneva, Tahoma, Sans-serif;
+    --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'Passion One', cursive;
     --fonte3: 'Sriracha', cursive;
 }
@@ -34,7 +34,7 @@ header > h1 {
 }
 
 header > p {
-    padding-bottom: 3.5vw;
+    padding-bottom: 50px;
 }
 
 header > p > a {
@@ -57,7 +57,7 @@ section {
 
 section.normal {
     background-color: white;
-    font-weight: bold;
+    color: black;
 }
 
 section.imagem {
