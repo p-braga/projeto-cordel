@@ -84,8 +84,8 @@ section#imagem1 {
 }
 
 section#imagem2 {
-    background-color: transparent;
     background-image: url(imagens/background002.jpg);
+    background-position: right center;
 }
 
 section#imagem2 > p{
