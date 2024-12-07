@@ -71,25 +71,20 @@ section.imagem {
 
 section.imagem > p {
     padding: 10px;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.499);
     display: inline-block;
     text-shadow: 1px 1px 0px black;
 
 }
 
 section#imagem1 {
-    background-color: black;
-    color: white;
     background-image: url(imagens/background001.jpg);
+    background-position: right center;
+
 }
 
 section#imagem2 {
     background-image: url(imagens/background002.jpg);
-    background-position: right center;
-}
-
-section#imagem2 > p{
-    background-color: rgba(0, 0, 0, 0.499);
 }
 
 footer {
